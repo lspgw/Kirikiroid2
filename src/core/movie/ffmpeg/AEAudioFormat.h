@@ -4,6 +4,7 @@
 
 #define AE_IS_PLANAR(x) ((x) >= AE_FMT_U8P && (x) <= AE_FMT_FLOATP)
 
+//it's a teset version.
 NS_KRMOVIE_BEGIN
 /**
  * The audio format structure that fully defines a stream's audio information
